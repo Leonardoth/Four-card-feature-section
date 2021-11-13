@@ -1,7 +1,7 @@
-[Four card feature section](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub/four-card-feature-section-Y7rnMjs8I)
+[Instruções/Instructions](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub/four-card-feature-section-Y7rnMjs8I)
 
 
-[Result](https://leonardoth.github.io/Four-card-feature-section/)
+[Resultado/Result](https://leonardoth.github.io/Four-card-feature-section/)
 
 
 You'll face an interesting layout test in this project. How would you approach the vertically centered cards?
